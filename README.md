@@ -1,2 +1,44 @@
-# HR-Analytics-Dashboard
-Interactive HR Analytics Dashboard using SQL, Python, Excel, and Power BI
+# HR Analytics Dashboard
+
+## Project Overview
+This project focuses on analyzing employee attrition, workforce trends, salary distribution, job satisfaction, and employee engagement using SQL, Python, Excel, and Power BI.
+
+## Tools & Technologies
+- SQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
+- Power BI
+
+## Dashboard Features
+- Executive Overview
+- Employee Attrition Analysis
+- Workforce Insights
+- KPI Tracking
+- Interactive Slicers
+
+## Key Insights
+- Employees with low job involvement showed higher attrition.
+- Employees with 0–2 years at the company had the highest turnover.
+- Low salary employees contributed most to attrition.
+- Certain job roles showed significantly higher employee turnover.
+
+## Project Files
+- Dataset
+- SQL Queries
+- Python EDA
+- Power BI Dashboard
+- Documentation PDF
+
+## Dashboard Screenshots
+
+### Executive Overview
+(Add Screenshot Here)
+
+### Employee Analysis
+(Add Screenshot Here)
+
+### Workforce Insights
+(Add Screenshot Here)
