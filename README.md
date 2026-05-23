@@ -35,10 +35,10 @@ This project focuses on analyzing employee attrition, workforce trends, salary d
 ## Dashboard Screenshots
 
 ### Executive Overview
-(Add Screenshot Here)
+![Dashboard](image-link 1)
 
 ### Employee Analysis
-(Add Screenshot Here)
+![Dashboard](image-link 2)
 
 ### Workforce Insights
-(Add Screenshot Here)
+![Dashboard](image-link 3)
