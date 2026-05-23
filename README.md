@@ -41,4 +41,4 @@ This project focuses on analyzing employee attrition, workforce trends, salary d
 ![Dashboard](https://github.com/VKSharma117/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshots/Employee%20Analysis.png?raw=true)
 
 ### Workforce Insights
-![Dashboard](image-link 3)
+![Dashboard](https://github.com/VKSharma117/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshots/Advanced%20Workforce%20Insights.png?raw=true)
